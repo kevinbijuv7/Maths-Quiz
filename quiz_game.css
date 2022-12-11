@@ -1,0 +1,21 @@
+body {
+    background-color:red;
+    text-align: center;
+    margin-top: 200px;
+  }
+  
+  h2 {
+    color: white;
+    text-align: center;
+  }
+  
+  label {
+    font-family:cursive;
+    font-size: 20px;
+  }
+  #borderimg {
+    border: 10px solid transparent;
+    padding: 15px;
+    border-image: url(Imageb.jpg) 30 round;
+  }
+  
